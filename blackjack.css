@@ -1,0 +1,38 @@
+body {
+    background-color: #232323;
+    margin: 0;
+}
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+#scoreDisplay {
+    display: inline-block;
+}
+#square {
+    width: 15%;
+    padding-bottom: 20%;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+#title1 {
+    text-align: center;
+    color: white;
+    background-color: #42bcf4;
+    margin: 0;
+    font-size: 50px;
+}
+#title2 {
+    text-align: center;
+    color: white;
+    background-color: #42bcf4;
+    margin: 0;
+    font-size: 50px;
+}
+
+.btnStyle {
+    border: none;
+    background: transparent;
+    color: white;
+}
